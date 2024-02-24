@@ -1,5 +1,6 @@
 # Real-time Object Detection with OpenCV and SSD MobileNet
 
+![Example Image](Result.png)
 ## Overview
 This project implements real-time object detection using the OpenCV library and the SSD MobileNet model. The system loads an image, detects objects within it, and displays bounding boxes along with class labels and confidence scores. The application of this project is practical for security and surveillance purposes.
 
